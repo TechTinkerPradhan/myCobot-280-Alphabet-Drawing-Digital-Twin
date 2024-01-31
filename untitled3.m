@@ -1,0 +1,1 @@
+lbr = importrobot('cobot_reassembled.urdf');
